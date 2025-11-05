@@ -110,3 +110,8 @@ Insight: Reducing deep discounts can recover $20K+ per year in profit.
 2. Data Upload: MySQL for storage  
 3. Analysis: Python (Pandas, Seaborn, Matplotlib) for EDA, KPI reports, for-loop visualizations  
 4. Reporting: Jupyter Notebook, PDF/storytelling, with executive summary  
+
+---
+
+## Author
+- [PRIYANKA_LAKRA]
